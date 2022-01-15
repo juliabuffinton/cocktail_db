@@ -1,0 +1,14 @@
+name: drinks
+
+dependencies:
+  - ipython
+  - matplotlib
+  - pandas
+  - pip
+  - python
+  - scikit-learn
+  - numpy
+  - notebook
+  - jupyterlab
+  - ipykernel
+  - pymongo

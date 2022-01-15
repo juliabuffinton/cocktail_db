@@ -1,0 +1,52 @@
+{
+    "name": "Kentucky Flyer",
+    "ingredients": [
+      {
+        "name": "rye whiskey",
+        "quantity": "2",
+        "unit": "oz"
+      },
+      {
+        "name": "maraschino liqueur",
+        "quantity": "0.75",
+        "unit": "oz"
+      },
+      {
+        "name": "lemon juice",
+        "quantity": "0.5",
+        "unit": "oz"
+      },
+    ],
+    "tried" : true,
+    "tags" : [],
+    "source" : "https://www.liquor.com/recipes/kentucky-flyer/"
+  },
+
+  {
+    "name": "Martinez",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": "2",
+        "unit": "oz"
+      },
+      {
+        "name": "maraschino liqueur",
+        "quantity": "0.5",
+        "unit": "oz"
+      },
+      {
+        "name": "sweet vermouth",
+        "quantity": "1",
+        "unit": "oz"
+      },
+      {
+        "name": "angostura bitters",
+        "quantity": "3",
+        "unit": "dashes"
+      },
+    ],
+    "tried" : false,
+    "tags" : [],
+    "source" : "https://www.acouplecooks.com/martinez-cocktail/"
+  }
